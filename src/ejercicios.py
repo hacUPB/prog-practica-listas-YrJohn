@@ -17,7 +17,7 @@ def maximo_matriz(matriz):
     """
     Recibe una lista de listas y devuelve el valor máximo.
     Incluir el código aquí para encontrar el valor máximo en la matriz.
-    """
+     """
     pass
 
 # Ejercicio 3: Verificar si un número es primo
@@ -58,6 +58,14 @@ def tabla_multiplicar(n):
     Recibe un número y devuelve una lista con su tabla de multiplicar del 1 al 10.
     Incluir el código aquí para generar la tabla de multiplicar.
     """
+   contador=1
+    while contador<10
+   for i in n:
+        n= n*contador
+    contador+=1
+
+    print (f"n")
+    
     pass
 
 # Ejercicio 8: Contar números negativos en una lista
